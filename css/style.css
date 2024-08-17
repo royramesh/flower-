@@ -168,7 +168,7 @@
     bottom: 0;
     display: flex;
     align-items: center;
-    background: rgba(255,98,137, 0.7);
+    /* background: rgba(255,98,137, 0.7); */
     z-index: 1;
 }
 
@@ -504,4 +504,10 @@
 
 .copyright a:hover {
     color: #FFFFFF !important;
+}
+.btn{
+    background-color: #fc3468;
+}
+.btn:hover{
+    background-color:#ff084a;
 }
