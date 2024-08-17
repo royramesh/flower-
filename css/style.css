@@ -505,10 +505,10 @@
 .copyright a:hover {
     color: #FFFFFF !important;
 }
-.btn{
+.btn-pink{
     background-color: #fc3468;
 }
-.btn:hover{
+.btn-pink:hover{
     background-color:#ff084a;
 }
 .lgo{
