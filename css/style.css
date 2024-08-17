@@ -511,3 +511,32 @@
 .btn:hover{
     background-color:#ff084a;
 }
+
+.quick-link  {
+    
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+}
+
+.quick-link a {
+    color: white;
+}
+
+.footer h4{
+    color:	#ff6289 ;
+}
+.adress-shop{
+    display: flex;
+    flex-direction: row;
+}
+
+.i-tag {
+    color:#ff6289 ;
+}
+
+.testimoinal-new{
+    background-color: #9a3888af ;
+}
