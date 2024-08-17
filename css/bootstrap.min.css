@@ -10,3 +10,11 @@
 .navbar-nav .nav-link.active {
     color: white !important;
 }
+
+.custom-heading {
+    font-size: 1.25rem; 
+  }
+
+  .service-list h4{
+    color: #ec4899; 
+  }
