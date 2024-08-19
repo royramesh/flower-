@@ -111,7 +111,7 @@
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: #fc3468 !important;
 }
 
 .navbar .dropdown-toggle::after {
