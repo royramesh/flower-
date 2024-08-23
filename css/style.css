@@ -544,3 +544,33 @@
 .whatsapp-btn i {
     font-size: 24px;
 }
+.product-section {
+    margin-bottom: 50px;
+}
+.section-heading {
+    margin-bottom: 20px;
+}
+.section-description {
+    margin-bottom: 30px;
+}
+.position-relative {
+    position: relative;
+}
+.order-btn {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    end: 0;
+    margin: 10px;
+}
+.order-btn img {
+    width: 20px;
+    height: 20px;
+}
